@@ -6,11 +6,11 @@
 </h3>
 <br />
 <p align="left">
-  🦄 Languages: <strong>HTML / CSS / JAVASCRIPT / MYSQL </strong>
+  🦄 Languages: <strong>HTML / CSS / JAVASCRIPT / MYSQL / POSTGRESQL / REACT / REACTNATIVE</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code/ Insomnia / MySQL Workbench / GitHub</strong>
+  💼 Tools: <strong>Visual Studio Code/ Insomnia / MySQL Workbench / GitHub / Docker / PostBird</strong>
 </p>
 
 <p align="left">
